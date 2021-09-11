@@ -1,0 +1,1 @@
+This is Clue-Doe's first git project
